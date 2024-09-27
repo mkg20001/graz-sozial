@@ -46,6 +46,11 @@ INFO: Dies ist keine vollständige "Guide fürs Leben" und basiert auf persönli
       - Warum dennoch einen Antrag auf Befreiung stellen?
       - Wenn Sie einen Antrag auf Befreiung stellen, dann müssen Sie die Erneuerbaren-Förderkosten auch dann weiterhin nicht bezahlen, wenn Sie generell wieder eingehoben werden.
 
+# Sozialcard
+
+- Die Stadt Graz bietet mit der SozialCard Menschen mit geringem Haushaltseinkommen, Ermäßigungen bei Gebühren und Abgaben sowie vergünstigte Tarife bei den Holding Graz Linien und diversen Freizeit- und Kultureinrichtungen.
+- [ « Infos & Antrag ](https://www.graz.at/cms/beitrag/10200148/7761791/SozialCard.html)
+
 # Behindertenpass
 
 (todo)
