@@ -81,4 +81,4 @@ INFO: Zur Grundgebühr und Strompreis kommt noch die Netzgebühr hinzu. Diese is
     - Manche Tarife können auch ohne Smart Meter gebucht werden und werden - sobald der Smart Meter installiert ist - auf flexible Preise gewechselt.
 
 - Anbieter:
-  - awattar GmbH: [Awattar Hourly]I(https://www.awattar.at/tariffs/hourly)
+  - awattar GmbH: [Awattar Hourly](https://www.awattar.at/tariffs/hourly)
