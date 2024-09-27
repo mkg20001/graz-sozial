@@ -91,3 +91,43 @@ INFO: Zur Grundgebühr und Strompreis kommt noch die Netzgebühr hinzu. Diese is
   - awattar GmbH: [Awattar Hourly](https://www.awattar.at/tariffs/hourly)
     - mit Smart Meter von Stromnetze Graz: Automatische umstellung Smart Meter
 
+## Lebensmittel und essen von toogoodtogo (billig)
+
+Kaufe Produkte die sehr bald ablaufen oder übriggebliebene Speisen von Restaurants, etc. zu extrem Rabatierten Preisen (meistens 66% Rabatt).
+
+Erfordert die toogoodtogo App!
+
+[ » Über toogoodtogo ](https://toogoodtogo.at)
+App:
+- [Android (Google Play)](https://play.google.com/store/apps/details?id=com.app.tgtg&hl=de)
+- [Android (Huawei)](https://appgallery.huawei.com/app/C103584611)
+- [iOS](https://apps.apple.com/dk/app/too-good-to-go-end-food-waste/id1060683933?mt=8)
+
+Empfehlungen:
+
+Lebensmittel:
+- Vegetarisch:
+  - Spar "Vegetarischer Mix" 5€
+    - Meistens fertig-Salat sowie Spar Enjoy produkte ohne fleisch (z.B. Sandwisches), Gemüse, Sonstiges
+- mit Fleisch:
+  - Spar "Spar Mix" 5€
+    - Meistens 1 Stück fleisch, öfters Spar Enjoy produkte mit fleisch (z.b. hühnersalat), Gemüse, Sonstiges
+  - Spar "Enjoy Mix" 5€
+    - Nicht in jeder Filiale. Nur Spar Enjoy produkte (also ready-to-eat) drin, für energielose Tage zu empfehlen.
+    - Ist meist schnell weg.
+
+Andere (nicht probiert):
+- Lebensmittel: Billa Überraschunskisterl (keine Vegetarische variante)
+- Backwaren: Spar und Billa bieten Backwarentüten an
+
+Es gibt sehr viele andere Geschäfte die ich hier nicht erwähne weil sie nur an einer Ecke in Graz sind. Probier dich durch, finde etwas das dir passt.
+
+Nicht jedes Angebot ist Vegetarisch/Veganb. Du kannst inzwischen nach Vegetarisch/Vegan filtern. Auf Android: Stöbern (unten) -> Filter (2. symbol von Rechts)
+
+## Lebensmittel und essen von foodsharing (gratis)
+
+Rette zusammen übriggebliebene Lebensmittel und iss dich satt und verteile sie weiter!
+
+[ » Über Foodsharing ](https://foodsharing.at/ueber-uns)
+
+(todo)
