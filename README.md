@@ -72,7 +72,9 @@ bspws: Awattar Hourly - Durchschnitts Basispreis - letzen 6 Monate - 8,324ct/kWh
 
 Vergleich: Energie Graz Privat Klassik - 21,24ct/kWh brutto + Grundgebühr 6,78€/mo ([Quelle](https://durchblicker.at/downloads/strom/energiegraz/Preisblatt_EnergieGraz_PrivatKlassik.pdf))
 
-WICHTIG: _Theoretisch_ ist es möglich das der Strompreis kurzzeitig sehr hoch wird. Dies ist aber in der Praxis kaum der Fall.
+WICHTIG: _Theoretisch_ ist es möglich das der Strompreis kurzzeitig sehr hoch wird. Dies ist aber in der Praxis kaum der Fall und übersteigt die grundsätzlichen Einsparungen nicht. Es bleibt ein Restrisiko.
+
+INFO: Zur Grundgebühr und Strompreis kommt noch die Netzgebühr hinzu. Diese ist fix und Standortabhängig. Über die EAG-Befreiung gibt es bis Ende 2024 75% Rabatt auf die Netzgebühr (siehe ORF Befreiung oben).
 
 - Voraussetzungen
   - Smart Meter
