@@ -126,6 +126,14 @@ Es gibt sehr viele andere Geschäfte die ich hier nicht erwähne weil sie nur an
 
 Nicht jedes Angebot ist Vegetarisch/Veganb. Du kannst inzwischen nach Vegetarisch/Vegan filtern. Auf Android: Stöbern (unten) -> Filter (2. symbol von Rechts)
 
+### lieferungen
+
+Es gibt auch länger haltbare Lebensmittel unter dem Tab "Lieferungen"
+
+Der Rabatt hier ist meist nur 50%/40%, dafür werden die Lebensmittel aber nicht schnell schlecht.
+
+Es gibt bspws. Schokolade
+
 ## Lebensmittel und essen von foodsharing (gratis)
 
 Rette zusammen übriggebliebene Lebensmittel und iss dich satt und verteile sie weiter!
@@ -133,3 +141,21 @@ Rette zusammen übriggebliebene Lebensmittel und iss dich satt und verteile sie 
 [ » Über Foodsharing ](https://foodsharing.at/ueber-uns)
 
 (todo)
+
+### fairteiler graz
+
+Fairteiler sind Kühlschränke an denen Gratis Essen verteilt wird.
+
+- [ » Fairteiler in Graz ](https://foodsharing.at/fairteiler?bid=149)
+
+### mitmachen graz
+
+(todo)
+
+## Lebensmittel vom Vinzimarkt (billig)
+
+tl;dr Vinzimärkte bieten billige Lebensmittel für sozial Bedürftige (mit Sozialcard) an.
+
+- Karl-Morre-Straße 9, 8020 Graz
+- Herrgottwiesgasse 51, 8020 Graz
+- [ » Öffnungszeiten und Kontakte ](http://www.vinzi.at/vinzimarkt-graz/)
