@@ -148,7 +148,7 @@ Rette zusammen übriggebliebene Lebensmittel und iss dich satt und verteile sie 
 
 ### fairteiler graz
 
-Fairteiler sind Kühlschränke an denen Gratis Essen verteilt wird.
+Fairteiler sind Kühlschränke/Regale an denen Gratis Essen verteilt wird.
 
 - [ » Fairteiler in Graz ](https://foodsharing.at/fairteiler?bid=149)
 
