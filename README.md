@@ -13,7 +13,7 @@ INFO: Dies ist keine vollständige "Guide fürs Leben" und basiert auf persönli
 - [ » Infos & Link zum Antrag ](https://www.soziales.steiermark.at/cms/beitrag/10363956/5361/)
 
 ## Rezeptgebührenbefreiung
-- tl;dr Unter 1,217,96 im Monat oder siehe unten? Die Rezeptgebühr pro Rezept entfällt
+- tl;dr Unter 1,217,96 im Monat oder siehe unten? Die Rezeptgebühr pro Rezept entfällt auf Antrag.
 - [Quelle Gesundheitskasse.at](https://www.gesundheitskasse.at/cdscontent/?contentid=10007.870471)
   - Wenn Ihr monatliches Nettoeinkommen folgende Richtsätze nicht übersteigt, können Sie einen Antrag auf Befreiung von der Rezeptgebühr stellen:
     - Alleinstehende: EUR 1.217,96
