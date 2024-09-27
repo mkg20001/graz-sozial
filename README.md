@@ -1,13 +1,13 @@
-Geld für Arme
+# Sozialleistungen für Grazer Bürger
 
-Du bist Arm? Du willst irgendwie über die runden kommen?
+Du kommst kaum über die Runden? Dann bist du hier richtig!
 
-Dinge die du dir Überlegen solltest (Graz Edition)
+Dinge die du dir Überlegen solltest zu beantragen (Graz Edition)
 
-Keine Gewähr auf aktualität oder vollständigkeit! Bitte prufe die aktuelle Lage!
+WICHTIG: Keine Gewähr auf aktualität oder vollständigkeit! Bitte prufe die aktuelle Lage!
 
 - Wohnunterstützung:
-  - Du hast eine billige wohnung, kannst dir aber das Leben und die Miete trotzdem nicht gleichzeitig Leisten? Auf zum Antrag
+  - Du hast eine billige wohnung, kannst dir aber das Leben und die Miete trotzdem nicht gleichzeitig Leisten?
   - Infos & Link zum Antrag: https://www.soziales.steiermark.at/cms/beitrag/10363956/5361/
 
 - Rezeptgebührenbefreiung:
@@ -19,3 +19,19 @@ Keine Gewähr auf aktualität oder vollständigkeit! Bitte prufe die aktuelle La
     - Ehepaare: EUR 2.209,68
   - Die Richtsätze für Ehepaare gelten auch für Lebensgemeinschaften und eingetragene Partnerschaften.
   - Infos & Antrag: https://www.gesundheitskasse.at/cdscontent/?contentid=10007.870471#
+
+- ORF Beitragsbefreiung, Zuschuss zum Fernsprechentgelt (bspws. Mobiltarif-Zuschuss), Befreiung EAG-Gebühren
+  - Alles ein Antrag
+  - Alles zu empfehlen, kriterien sind alle die selben
+  - ORF Beitragsbefreiung:
+    - Keine ORF Gebühr zu entrichten
+  - Zuschuss zum Fernsprechentgelt:
+    - Mobiltelefonie wird (teil)finanziert vom Staat
+    - Mobilfunkanbieter muss Tarif anbieten und muss im Antrag angegeben werden
+    - Tarife:
+      - Spusu: https://www.spusu.at/spususozial
+  - EAG-Gebührenbefreiung: https://www.e-control.at/befreiung-von-erneuerbaren-foerderkosten
+    - Als einkommensschwacher Haushalt können Sie bei Ihrer Energierechnung sparen und müssen keine Erneuerbaren-Förderkosten bezahlen. [eag]
+    - Wenn Sie sich von den Erneuerbaren Förderkosten befreien lassen, haben Sie bis 31.12.2024 automatisch Anspruch auf einen Netzkosten-Zuschuss. Diesen müssen Sie nicht extra beantragen, sondern er wird automatisch nicht verrechnet. Erlassen werden 75% der Netzkosten mit einer Grenze von bis zu 200 Euro pro Jahr. [eag]
+
+[eag]: https://www.e-control.at/befreiung-von-erneuerbaren-foerderkosten
