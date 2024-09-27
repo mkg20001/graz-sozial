@@ -93,7 +93,7 @@ INFO: Zur Grundgebühr und Strompreis kommt noch die Netzgebühr hinzu. Diese is
 
 ## Lebensmittel: "Ist das noch gut?"
 
-Es gibt einen [ausführlichen Artikel](https://wiki.foodsharing.de/Hygiene-Ratgeber_f%C3%BCr_Lebensmittel) zu dem Thema von foodsharing
+Es gibt einen [ausführlichen Artikel](https://wiki.foodsharing.de/Hygiene-Ratgeber_f%C3%BCr_Lebensmittel#Teil_2_-_Wie_beurteile_ich_Lebensmittel.3F_Und_was_kann_ich_weitergeben.3F) zu dem Thema von foodsharing
 
 ## Lebensmittel und essen von toogoodtogo (billig)
 
