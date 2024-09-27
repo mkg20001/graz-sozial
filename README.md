@@ -1,10 +1,10 @@
-# Sozialleistungen für Grazer Bürger
+# Sozialleistungen + Sparideen für Grazer Bürger
 
 Du kommst kaum über die Runden? Du hast psychische Probleme und brauchst Hilfe? Dann bist du hier richtig!
 
 Dinge die du dir Überlegen solltest zu beantragen (Graz Edition)
 
-WICHTIG: Keine Gewähr auf aktualität, korrektheit oder vollständigkeit! Bitte prufe die aktuelle Lage bevor du etwas beantragst!
+WICHTIG: Keine Gewähr auf Aktualität, Korrektheit oder Vollständigkeit! Bitte prüfe die aktuelle Lage bevor du etwas beantragst!
 
 INFO: Dies ist keine vollständige "Guide fürs Leben" und basiert auf persönlichen Erfahrungen und Recherchen von mir. Es gibt auch sehr viele Angebote die ich nicht kenne oder hier nicht erfasst habe.
 
@@ -82,5 +82,3 @@ INFO: Zur Grundgebühr und Strompreis kommt noch die Netzgebühr hinzu. Diese is
 
 - Anbieter:
   - awattar GmbH: [Awattar Hourly]I(https://www.awattar.at/tariffs/hourly)
-
-
