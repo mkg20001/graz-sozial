@@ -52,7 +52,7 @@ INFO: Dies ist keine vollständige "Guide fürs Leben" und basiert auf persönli
 
 # Mobilsozialpsychatrische Betreung für psychisch Kranke
 
-tl;dr Wenn du schwierigkeiten hast deinen Haushalt oder dein Leben in den griff zu bekommen (z.B. durch Ängste oder ander psy. Erkranungen) kann eine MSB helfen.
+tl;dr Wenn du schwierigkeiten hast deinen Haushalt oder dein Leben in den griff zu bekommen (z.B. durch Ängste oder ander psy. Erkranungen) kann eine MSB helfen. Die MSB kommt z.B. Wöchentlich zu dir Nachhause.
 
 - [ » Was ist das? ](https://www.hilfswerk.at/steiermark/psychosoziale-dienste/mobile-sozialpsychiatrische-betreuung-msb/mobile-sozialpsychiatrische-betreuung/)
 - Antrag sollte bestenfalls von einer Institution die MSB anbietet ausgefüllt werden. Speziell da ein Betreungsplan erstellt werden muss.
