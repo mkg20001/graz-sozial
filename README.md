@@ -91,6 +91,10 @@ INFO: Zur Grundgebühr und Strompreis kommt noch die Netzgebühr hinzu. Diese is
   - awattar GmbH: [Awattar Hourly](https://www.awattar.at/tariffs/hourly)
     - mit Smart Meter von Stromnetze Graz: Automatische umstellung Smart Meter
 
+## Lebensmittel: "Ist das noch gut?"
+
+Es gibt einen [ausführlichen Artikel](https://wiki.foodsharing.de/Hygiene-Ratgeber_f%C3%BCr_Lebensmittel) zu dem Thema von foodsharing
+
 ## Lebensmittel und essen von toogoodtogo (billig)
 
 Kaufe Produkte die sehr bald ablaufen oder übriggebliebene Speisen von Restaurants, etc. zu extrem Rabatierten Preisen (meistens 66% Rabatt).
