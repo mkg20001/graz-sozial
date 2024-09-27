@@ -95,7 +95,7 @@ INFO: Zur Grundgebühr und Strompreis kommt noch die Netzgebühr hinzu. Diese is
 
 Kaufe Produkte die sehr bald ablaufen oder übriggebliebene Speisen von Restaurants, etc. zu extrem Rabatierten Preisen (meistens 66% Rabatt).
 
-WICHTIG: Wenn du viele Unverträglichkeiten oder Allergien hast, dann ist das warscheinlich nichts für dich, da das Essen doch sehr variiert und fast alles dabei ist. Schau trotzdem einmal kurz durch, es kann sein du hast Glück.
+WICHTIG: Wenn du viele Unverträglichkeiten oder Allergien hast, dann ist das warscheinlich nichts für dich, da das Essen doch sehr variiert und fast alles dabei ist. Schau trotzdem einmal kurz durch, es kann sein du hast Glück. Oder bilde Gruppen um Produkte zu tauschen.
 
 Erfordert die toogoodtogo App!
 
