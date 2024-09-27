@@ -57,7 +57,7 @@ tl;dr Wenn du schwierigkeiten hast deinen Haushalt oder dein Leben in den griff 
 - [ » Was ist das? ](https://www.hilfswerk.at/steiermark/psychosoziale-dienste/mobile-sozialpsychiatrische-betreuung-msb/mobile-sozialpsychiatrische-betreuung/)
 - Antrag sollte bestenfalls von einer Institution die MSB anbietet ausgefüllt werden. Speziell da ein Betreungsplan erstellt werden muss.
 - Institutionen in Graz die MSB anbieten (und beim Antrag helfen):
-  - [APF Graz](https://apf-graz.at)
+  - [APF Graz](https://www.apf-graz.at/graz)
   - [GFSG Graz](https://gfsg.at/angebote/mobile-betreuung/)
   - weitere...
 
