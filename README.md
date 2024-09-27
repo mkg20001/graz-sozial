@@ -85,6 +85,9 @@ INFO: Zur Grundgebühr und Strompreis kommt noch die Netzgebühr hinzu. Diese is
 - Voraussetzungen
   - Smart Meter
     - Manche Tarife können auch ohne Smart Meter gebucht werden und werden - sobald der Smart Meter installiert ist - auf flexible Preise gewechselt.
+    - Je nach Netzanbieter und Stromanbieter braucht es weitere Schritte. Das erfährst du vom Stromanbieter.
 
 - Anbieter:
   - awattar GmbH: [Awattar Hourly](https://www.awattar.at/tariffs/hourly)
+    - mit Smart Meter von Stromnetze Graz: Automatische umstellung Smart Meter
+
