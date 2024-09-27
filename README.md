@@ -60,7 +60,8 @@ INFO: Dies ist keine vollständige "Guide fürs Leben" und basiert auf persönli
 tl;dr Wenn du schwierigkeiten hast deinen Haushalt oder dein Leben in den griff zu bekommen (z.B. durch Ängste oder ander psy. Erkranungen) kann eine MSB helfen. Die MSB kommt z.B. Wöchentlich zu dir Nachhause.
 
 - [ » Was ist das? ](https://www.hilfswerk.at/steiermark/psychosoziale-dienste/mobile-sozialpsychiatrische-betreuung-msb/mobile-sozialpsychiatrische-betreuung/)
-- Antrag sollte bestenfalls von einer Institution die MSB anbietet ausgefüllt werden. Speziell da ein Betreungsplan erstellt werden muss.
+- Antrag sollte bestenfalls nicht selbst sondern von einer Institution die MSB anbietet ausgefüllt werden. Speziell da ein Betreungsplan erstellt werden muss.
+  - [ » Antrag ](https://www.graz.at/cms/beitrag/10276162/7761923/Behindertenhilfe.html)
 - Institutionen in Graz die MSB anbieten (und beim Antrag helfen):
   - [APF Graz](https://www.apf-graz.at/graz)
   - [GFSG Graz](https://gfsg.at/angebote/mobile-betreuung/)
