@@ -1,10 +1,12 @@
 # Sozialleistungen für Grazer Bürger
 
-Du kommst kaum über die Runden? Dann bist du hier richtig!
+Du kommst kaum über die Runden? Du hast psychische Probleme und brauchst Hilfe? Dann bist du hier richtig!
 
 Dinge die du dir Überlegen solltest zu beantragen (Graz Edition)
 
-WICHTIG: Keine Gewähr auf aktualität oder vollständigkeit! Bitte prufe die aktuelle Lage!
+WICHTIG: Keine Gewähr auf aktualität, korrektheit oder vollständigkeit! Bitte prufe die aktuelle Lage bevor du etwas beantragst!
+
+INFO: Dies ist keine vollständige "Guide fürs Leben" und basiert auf persönlichen Erfahrungen und Recherchen von mir. Es gibt auch sehr viele Angebote die ich nicht kenne oder hier nicht erfasst habe.
 
 ## Wohnunterstützung
 - tl;dr Du hast eine billige wohnung, kannst dir aber das Leben und die Miete trotzdem nicht gleichzeitig Leisten?
@@ -43,3 +45,40 @@ WICHTIG: Keine Gewähr auf aktualität oder vollständigkeit! Bitte prufe die ak
     - Seit 2022 wird der Erneuerbaren-Förderbeitrag aufgrund der hohen Energiepreise nicht eingehoben.
       - Warum dennoch einen Antrag auf Befreiung stellen?
       - Wenn Sie einen Antrag auf Befreiung stellen, dann müssen Sie die Erneuerbaren-Förderkosten auch dann weiterhin nicht bezahlen, wenn Sie generell wieder eingehoben werden.
+
+# Behindertenpass
+
+(todo)
+
+# Mobilsozialpsychatrische Betreung für psychisch Kranke
+
+tl;dr Wenn du schwierigkeiten hast deinen Haushalt oder dein Leben in den griff zu bekommen (z.B. durch Ängste oder ander psy. Erkranungen) kann eine MSB helfen.
+
+- [ » Was ist das? ](https://www.hilfswerk.at/steiermark/psychosoziale-dienste/mobile-sozialpsychiatrische-betreuung-msb/mobile-sozialpsychiatrische-betreuung/)
+- Antrag sollte bestenfalls von einer Institution die MSB anbietet ausgefüllt werden. Speziell da ein Betreungsplan erstellt werden muss.
+- Institutionen in Graz die MSB anbieten (und beim Antrag helfen):
+  - [APF Graz](https://apf-graz.at)
+  - [GFSG Graz](https://gfsg.at/angebote/mobile-betreuung/)
+  - weitere...
+
+# Andere wege Geld zu sparen
+
+## Stromtarif wechseln zu Anbieter mit flexiblen Preisen
+
+Flexible Stromtarife richten sich nach dem aktuellen, stündlichen Börsenpreis vom Strom.
+Dieser ist meist günstiger als fixe Tarife, speziell zu Sonnen-/Windzeiten. Aber auch Nachts sind die Tarife günstiger.
+
+bspws: Awattar Hourly - Durchschnitts Basispreis - letzen 6 Monate - 8,324ct/kWh brutto (stand Sept. 24) + Grundgebühr 5,75€/mo ([Quelle](https://www.awattar.at/))
+
+Vergleich: Energie Graz Privat Klassik - 21,24ct/kWh brutto + Grundgebühr 6,78€/mo ([Quelle](https://durchblicker.at/downloads/strom/energiegraz/Preisblatt_EnergieGraz_PrivatKlassik.pdf))
+
+WICHTIG: _Theoretisch_ ist es möglich das der Strompreis kurzzeitig sehr hoch wird. Dies ist aber in der Praxis kaum der Fall.
+
+- Voraussetzungen
+  - Smart Meter
+    - Manche Tarife können auch ohne Smart Meter gebucht werden und werden - sobald der Smart Meter installiert ist - auf flexible Preise gewechselt.
+
+- Anbieter:
+  - awattar GmbH: [Awattar Hourly]I(https://www.awattar.at/tariffs/hourly)
+
+
